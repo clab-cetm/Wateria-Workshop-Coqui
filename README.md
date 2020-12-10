@@ -161,7 +161,7 @@ Coqui 透過 555 IC 發出震盪頻率，驅使蜂鳴器發出不同的音頻。
 
 你也可以參考 Public Lab 公布在網站上的做法，裁切寶特瓶的上半部來製作承水器具。
 
-![](https://img.youtube.com/vi/eFiavvMAseQ/maxresdefault.jpg)
+![](https://img.youtube.com/vi/eFiavvMAseQ/sddefault.jpg)
 
 來源參考：[Build a Coquí: A Simple Water Conductivity Sensor (version 1), publiclab.org](https://publiclab.org/notes/ashkaya/09-17-2016/build-a-coqui-a-simple-water-conductivity-sensor#Step+by+Step+Instructions+for+Making+the+Coqui)
 
