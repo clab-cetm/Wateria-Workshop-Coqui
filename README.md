@@ -18,7 +18,7 @@ Coqui 是由 Publiclab community 所設計的 "液體導電性感測器" (Conduc
 
 另外，Coqui 所輸出的聲音是可以被錄製、分析、儲存，並可用於樂器演奏的。在這個工作坊中將示範如何製作一個 Coqui 導電性感測器。
 
-備註：[Coquí](https://en.wikipedia.org/wiki/Coqu%C3%AD) 的命名來自多明尼加樹蛙 (Eleutherodactylus Coqui)。是原產於波多黎各的一種相當小型的樹蛙。多明尼加樹蛙求偶的叫聲就像牠的學名 “Coquí” 一樣，有二個明顯的高音 “co-kee”，在 0.5 公尺的範圍內可達將近 100 分貝。
+備註：[Coquí](https://en.wikipedia.org/wiki/Coqu%C3%AD) 的命名來自多明尼加樹蛙 (Eleutherodactylus Coqui)。是原產於波多黎各的一種相當小型的樹蛙。多明尼加樹蛙求偶的叫聲就像牠的學名 “Coquí” 一樣，有二個明顯的高音 “co-kee”，在 0.5 公尺的範圍內可達將近 100 分貝。如果你想聽 Coqui 的聲音，可以到 [https://www.naturefootage.com](https://www.naturefootage.com/video-clips/NK011_0031/coqui-frog-close-up-calling-night-time-hawaii-invasive-species) 聆聽。
 
 
 ## 開始製作 Coqui
