@@ -327,6 +327,6 @@ Coqui 的運作方式是將水質的導電度（汙染狀況）轉化為音頻�
 
 ![](images/coqui-34.jpg)
 
-![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png)
-
 ~ END ~　呱！呱！
+
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png)
